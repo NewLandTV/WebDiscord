@@ -1,0 +1,6 @@
+{
+    "clientId": "your.discord_bot.application_id",
+    "guildId": "your.discord_server.id",
+    "token": "your.discord_bot.token",
+    "yourId": "your.id"
+}
